@@ -28,3 +28,7 @@ figcaption {
   margin: auto;
   padding: 6px;
 }
+
+div {
+  float: left;
+}
