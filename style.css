@@ -21,3 +21,8 @@ figcaption {
   text-align: center;
   font-size: 12px;
 }
+
+p {
+  width: 800px;
+  text-align: center;
+}
